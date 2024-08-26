@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello my name is Christopher Peters
+Hello my name is Christopher Peters and i am a super senior at utsa.
 
 A data-driven personal website
 ======
